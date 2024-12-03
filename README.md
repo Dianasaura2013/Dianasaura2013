@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dianasaura2013
-- 👀 I’m interested in Sanic the Horgeheg
-- 🌱 I’m currently learning HTML/CSS through freeCodeCamp and now through Coursera
+- 👀 I’m interested in being a web developer and web designer
+- 🌱 I’m currently learning HTML/CSS through freeCodeCamp 
 - 💞️ I’m looking to collaborate on UX/UI or LD/ID resources
 - 📫 How to reach me [dinohunt9@gmail.com]
 - 😄 Pronouns: she/they/hey you
